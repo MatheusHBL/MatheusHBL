@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Henrique Barbosa de Lima, tenho 24 anos e sou natural do Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRO.
+Me chamo Matheus Henrique Barbosa de Lima, tenho 25 anos e sou natural do Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou finalizando a graduação de Análise e Desenvolvimento de Sistemas no IFRO.
 
 <p align="left">
     <a href="https://github.com/MatheusHBL?tab=repositories">

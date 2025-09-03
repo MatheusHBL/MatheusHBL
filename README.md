@@ -67,6 +67,14 @@ Me chamo Matheus Henrique Barbosa de Lima, tenho 24 anos e sou natural do Rondô
 />
 <img 
     align="left" 
+    alt="ReactNative"
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vue"
     title="Vue" 
     width="30px" 
